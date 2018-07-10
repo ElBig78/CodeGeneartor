@@ -1,0 +1,8 @@
+{
+  "name": "CodeGenerator",
+  "app_id": "e37de71b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
